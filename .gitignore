@@ -2,3 +2,5 @@
 .cache/41/5106c7adf6a11c4b663517e6d52767.json
 .cache/2e/12ffc75384e2bad5798809e654e36d.json
 dist/app.js.map
+*.json
+node_modules

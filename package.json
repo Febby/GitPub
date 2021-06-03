@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Febby/GitPub/issues"
   },
-  "homepage": "https://github.com/Febby/GitPub#readme"
+  "homepage": "https://github.com/Febby/GitPub#readme",
+  "dependencies": {
+    "axios": "^0.21.1"
+  },
+  "browserslist": [
+    "since 2017-06"
+  ]
 }
